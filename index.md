@@ -1,4 +1,4 @@
-![image](ucsdid1 (2))
+<img src="ucsdid1.jpg" width="200"/>
 
 # Ahmed Hussaini's Personal Site
 #### 4th Year **Computer Engineering** student
