@@ -1,4 +1,4 @@
-[Me](\Users\ahmed\Desktop\ucsdid1 (2))
+![image](ucsdid1 (2))
 
 # Ahmed Hussaini's Personal Site
 #### 4th Year **Computer Engineering** student
